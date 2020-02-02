@@ -17,9 +17,10 @@ var invoiceJSON = {
   status: 'Unpaid',
 }
 var company_logo = {
+  src: "",  //base64 image object
   w: 500,
   h: 60
-} //base64 image object
+}
 
 var fontSizes = {
   HeadTitleFontSize: 18,
